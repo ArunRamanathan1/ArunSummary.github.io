@@ -1,6 +1,6 @@
-# ArunSummary.github.io
+# Arun Ramanathan
 ## About Me
-APCS final project
+I am a rising freshman at University of Maryland at college park and this is my AP Computer Science final project
 ### Arun Ramanathan
 ![image](https://user-images.githubusercontent.com/61334968/121909621-1ae56c00-ccfc-11eb-8280-b5c1767b0403.png)
 
